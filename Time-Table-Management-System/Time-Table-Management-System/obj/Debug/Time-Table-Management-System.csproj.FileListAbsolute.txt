@@ -1,0 +1,17 @@
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time-Table-Management-System.csproj.AssemblyReference.cache
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time_Table_Management_System.Properties.Resources.resources
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time_Table_Management_System.Table.resources
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time-Table-Management-System.csproj.GenerateResource.cache
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time-Table-Management-System.csproj.CoreCompileInputs.cache
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\bin\Debug\Time-Table-Management-System.exe.config
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\bin\Debug\Time-Table-Management-System.exe
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\bin\Debug\Time-Table-Management-System.pdb
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time-Table-Management-System.exe
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time-Table-Management-System.pdb
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time_Table_Management_System.MainForm.resources
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time_Table_Management_System.BatchForm.resources
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time_Table_Management_System.TeacherForm.resources
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time_Table_Management_System.CourseForm.resources
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time_Table_Management_System.AddBatch.resources
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time_Table_Management_System.AddTeacher.resources
+D:\Class Save\Data Structure\Time-Table-Management-System\Time-Table-Management-System\obj\Debug\Time_Table_Management_System.TableForm.resources
